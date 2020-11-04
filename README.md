@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![Anil' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilpdv&layout=compact&theme=algolia)](https://bit.ly/2DRJEXJ)
 
-<br/>
+<br>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
