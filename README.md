@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React.js
 - 🌱 I’m currently learning Flutter and Golang.
 - 👯 I’m looking to collaborate on Flutter and Golang
