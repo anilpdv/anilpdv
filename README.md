@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 
 [![Gerasimos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilpdv&show_icons=false&theme=algolia)](https://bit.ly/2DRJEXJ)
 
+
+Five years ago he fell in love with the [Go programming language](https://golang.org), and since then he hasn't cheated on for any other. Proof Of Concept:
+
+[![Gerasimos' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilpdv&layout=compact&theme=algolia)](https://bit.ly/2DRJEXJ)
+
