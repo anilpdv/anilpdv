@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with rdbms
 - 💬 Ask me about anything
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/anil-pdv-090b8a134/)
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... i don't know.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i don't know.
 
 # Let's talk about Anil Pdv
 
