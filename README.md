@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i don't know.
 
+# Let's talk about Anil Pdv
+
+[![Gerasimos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilpdv&show_icons=false&theme=algolia)](https://bit.ly/2DRJEXJ)
+
