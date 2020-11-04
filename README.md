@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 # Achievement
 
 <a href="https://github.com/anilpdv/ebook_viewer_project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anilpdv&repo=ebook_viewer_project&theme=algolia" />
 </a>
 <a href="https://github.com/anilpdv/quotesrestapi-refactor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anilpdv&repo=quotesrestapi-refactor&theme=algolia" />
 </a>
 <a href="https://github.com/anilpdv/musiq-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anilpdv&repo=musiq-app&theme=algolia" />
 </a>
 <a href="https://github.com/anilpdv/video-spider">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anilpdv&repo=video-spider&theme=algolia" />
 </a>
 
