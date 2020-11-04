@@ -25,7 +25,7 @@ Two years ago he fell in love with the [Python programming language](https://gol
 
 <br>
 
-# Projects that i am proud of
+# achievement
 
 <a href="https://github.com/anilpdv/ebook_viewer_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anilpdv&repo=ebook_viewer_project&theme=algolia" />
