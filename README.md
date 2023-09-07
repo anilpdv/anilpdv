@@ -12,8 +12,6 @@
 
 # Let's talk about Anil Pdv
 
-[![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilpdv&show_icons=false&theme=algolia)](https://bit.ly/2DRJEXJ)
-
 He is a self-taught developer with 2+ years of experience who loves creating new exciting and challenging projects.
 
 Two years ago he fell in love with the [Python programming language](https://python.org), and since then he hasn't cheated on for any other. Proof Of Concept:
