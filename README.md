@@ -12,7 +12,7 @@
 
 # Let's talk about Anil Pdv
 
-He is a self-taught developer with 2+ years of experience who loves creating new exciting and challenging projects.
+He is a self-taught developer with 5+ years of experience who loves creating new exciting and challenging projects.
 
 Two years ago he fell in love with the [Python programming language](https://python.org), and since then he hasn't cheated on for any other. Proof Of Concept:
 
