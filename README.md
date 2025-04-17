@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilpdv&label=Profile%20views&color=blueviolet&style=flat" alt="anilpdv" /> </p>
+
 
 ### Hi there 👋
 
