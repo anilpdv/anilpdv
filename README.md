@@ -24,21 +24,21 @@
 
 ---
 
-## Areas of Focus
+## <img src="https://api.iconify.design/lucide:compass.svg?color=%2338bdf8" width="22" height="22" valign="middle" /> Areas of Focus
 
-- **Full-Stack Web Architecture**: Crafting performant, accessible web applications with **React**, **Next.js**, **TypeScript**, and **Node.js**.
-- **Desktop & Cross-Platform**: Engineering native and hybrid desktop solutions using **Electron** and **Go (Fyne)**, alongside mobile apps with **Flutter** and **Swift**.
-- **Backend & Concurrency**: Designing resilient REST/GraphQL APIs, microservices, and concurrent backend systems with **Node.js**, **Go**, and **Elixir**.
-- **Developer Experience & Tooling**: Building CLI utilities, browser extensions, and modular component systems with automated testing.
+- <img src="https://api.iconify.design/lucide:globe.svg?color=%2338bdf8" width="16" height="16" valign="middle" /> **Full-Stack Web Architecture**: Crafting performant, accessible web applications with **React**, **Next.js**, **TypeScript**, and **Node.js**.
+- <img src="https://api.iconify.design/lucide:monitor.svg?color=%2338bdf8" width="16" height="16" valign="middle" /> **Desktop & Cross-Platform**: Engineering native and hybrid desktop solutions using **Electron** and **Go (Fyne)**, alongside mobile apps with **Flutter** and **Swift**.
+- <img src="https://api.iconify.design/lucide:server.svg?color=%2338bdf8" width="16" height="16" valign="middle" /> **Backend & Concurrency**: Designing resilient REST/GraphQL APIs, microservices, and concurrent backend systems with **Node.js**, **Go**, and **Elixir**.
+- <img src="https://api.iconify.design/lucide:wrench.svg?color=%2338bdf8" width="16" height="16" valign="middle" /> **Developer Experience & Tooling**: Building CLI utilities, browser extensions, and modular component systems with automated testing.
 
 ---
 
-## Featured Projects
+## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%2338bdf8" width="22" height="22" valign="middle" /> Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/anilpdv/MusicApp">MusicApp</a></h3>
+      <h3><img src="https://api.iconify.design/lucide:music.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> <a href="https://github.com/anilpdv/MusicApp">MusicApp</a></h3>
       <p>Native iOS music application featuring clean audio playback architecture, playlist curation, and responsive UI design.</p>
       <p>
         <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
@@ -47,7 +47,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/anilpdv/ebook_viewer_project">Ebook Viewer</a></h3>
+      <h3><img src="https://api.iconify.design/lucide:book-open.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> <a href="https://github.com/anilpdv/ebook_viewer_project">Ebook Viewer</a></h3>
       <p>Cross-platform mobile application for discovering, viewing, and downloading PDF and EPUB books with custom reading themes.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/anilpdv/projectk8">ProjectK8</a></h3>
+      <h3><img src="https://api.iconify.design/lucide:boxes.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> <a href="https://github.com/anilpdv/projectk8">ProjectK8</a></h3>
       <p>Containerized microservices pipeline for handwritten digit recognition, language translation, and text-to-speech processing.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -68,7 +68,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/anilpdv/quotes-cli">Quotes CLI</a></h3>
+      <h3><img src="https://api.iconify.design/lucide:terminal.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> <a href="https://github.com/anilpdv/quotes-cli">Quotes CLI</a></h3>
       <p>Command-line developer utility for retrieving, filtering, and searching quotes by category, author, or book.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/anilpdv/youtube-translator-ext">YouTube AI Translator</a></h3>
+      <h3><img src="https://api.iconify.design/lucide:subtitles.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> <a href="https://github.com/anilpdv/youtube-translator-ext">YouTube AI Translator</a></h3>
       <p>Manifest V3 browser extension for live caption and transcript extraction, multi-provider AI translation, and bilingual playback.</p>
       <p>
         <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -88,7 +88,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/anilpdv">Desktop & GUI Engineering</a></h3>
+      <h3><img src="https://api.iconify.design/lucide:layout.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> <a href="https://github.com/anilpdv">Desktop & GUI Engineering</a></h3>
       <p>Cross-platform desktop tools and media utilities built with lightweight GUI frameworks and performant backend runtimes.</p>
       <p>
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
@@ -101,7 +101,13 @@
 
 ---
 
-## Technology Stack
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=%2338bdf8" width="22" height="22" valign="middle" /> Technology Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,tailwind,vite,electron,flutter,dart,swift,go,elixir,py,postgres,mongodb,redis,docker,kubernetes,aws,git,linux,vitest&theme=dark" alt="Skill Icons Grid" />
+</div>
+
+<br />
 
 <table>
   <tr>
@@ -162,7 +168,7 @@
 
 ---
 
-## GitHub Activity & Metrics
+## <img src="https://api.iconify.design/lucide:activity.svg?color=%2338bdf8" width="22" height="22" valign="middle" /> GitHub Activity & Metrics
 
 <div align="center">
 
@@ -191,7 +197,7 @@
 
 <div align="center">
 
-### Connect & Collaborate
+### <img src="https://api.iconify.design/lucide:message-square.svg?color=%2338bdf8" width="20" height="20" valign="middle" /> Connect & Collaborate
 
 I'm always open to discussing **Full-Stack Web Architectures**, **Desktop / Mobile Engineering**, or **Concurrent Systems**.
 
