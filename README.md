@@ -26,10 +26,28 @@
 
 ## <img src="https://api.iconify.design/lucide:compass.svg?color=%2338bdf8" width="22" height="22" valign="middle" /> Areas of Focus
 
-- <img src="https://api.iconify.design/lucide:globe.svg?color=%2338bdf8" width="16" height="16" valign="middle" /> **Full-Stack Web Architecture**: Crafting performant, accessible web applications with **React**, **Next.js**, **TypeScript**, and **Node.js**.
-- <img src="https://api.iconify.design/lucide:monitor.svg?color=%2338bdf8" width="16" height="16" valign="middle" /> **Desktop & Cross-Platform**: Engineering native and hybrid desktop solutions using **Electron** and **Go (Fyne)**, alongside mobile apps with **Flutter** and **Swift**.
-- <img src="https://api.iconify.design/lucide:server.svg?color=%2338bdf8" width="16" height="16" valign="middle" /> **Backend & Concurrency**: Designing resilient REST/GraphQL APIs, microservices, and concurrent backend systems with **Node.js**, **Go**, and **Elixir**.
-- <img src="https://api.iconify.design/lucide:wrench.svg?color=%2338bdf8" width="16" height="16" valign="middle" /> **Developer Experience & Tooling**: Building CLI utilities, browser extensions, and modular component systems with automated testing.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><img src="https://api.iconify.design/lucide:globe.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> Full-Stack Web Architecture</h4>
+      <p>Crafting scalable, accessible web applications with <b>React 19</b>, <b>Next.js</b>, <b>TypeScript</b>, and <b>Node.js</b> with robust state isolation and clean UI design.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><img src="https://api.iconify.design/lucide:monitor.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> Desktop & Cross-Platform</h4>
+      <p>Engineering performant desktop applications with <b>Electron</b> and <b>Go (Fyne)</b>, complemented by mobile experiences in <b>Flutter</b> and <b>Swift</b>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><img src="https://api.iconify.design/lucide:server.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> Backend & Concurrency</h4>
+      <p>Designing high-throughput REST/GraphQL APIs, microservices, and concurrent backend pipelines with <b>Node.js</b>, <b>Go</b>, and <b>Elixir</b>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><img src="https://api.iconify.design/lucide:wrench.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> Tooling & Developer Experience</h4>
+      <p>Building real-time browser extensions (Manifest V3), CLI productivity tools, and test-driven suites with <b>Vitest</b> and <b>Playwright</b>.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
