@@ -18,7 +18,7 @@
 <br />
 <br />
 
-> *Self-taught **Full-Stack Engineer with 5+ years of experience** specializing in **React.js**, **Node.js**, **TypeScript**, and **Next.js**. I design and build production-grade web platforms, cross-platform desktop applications, mobile apps, and robust concurrent backend systems.*
+> *Self-taught **Full-Stack Engineer with 6+ years of experience** specializing in **React.js**, **Node.js**, **TypeScript**, and **Next.js**. I design and build production-grade web platforms, cross-platform desktop applications, mobile apps, and robust concurrent backend systems.*
 
 </div>
 
