@@ -92,11 +92,14 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Insights
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilpdv&theme=github-dark-blue&hide_border=true&border_radius=8&background=0D1117" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anilpdv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&count_private=true&include_all_commits=true&border_radius=8" alt="GitHub Stats" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=anilpdv&theme=github-dark-blue&hide_border=true&border_radius=8&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak Stats" height="170" />
 </div>
+
 
 ---
 
