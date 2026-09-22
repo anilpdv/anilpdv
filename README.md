@@ -165,7 +165,26 @@
 ## 📊 Development Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=anilpdv&theme=github-dark-blue&hide_border=true&border_radius=8&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak Stats" />
+
+<table>
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anilpdv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&ring_color=38BDF8&include_all_commits=true&count_private=true" alt="anilpdv's GitHub Stats" />
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=anilpdv&theme=github-dark-blue&hide_border=true&border_radius=8&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="anilpdv's Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anilpdv&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="anilpdv's Top Languages" />
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anilpdv&theme=github_dark" alt="anilpdv's Contribution Metrics" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
