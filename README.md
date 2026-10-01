@@ -1,93 +1,61 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile/hero-mobile.svg">
+  <img src="assets/profile/hero.svg" width="100%" alt="Anil Palli — Full-stack developer and product engineer. Self-taught, with 6+ years building web interfaces, native apps, and developer tools.">
+</picture>
 
-# Anil Palli
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile/metrics-mobile.svg">
+  <img src="assets/profile/metrics.svg" width="100%" alt="GitHub metrics: followers, public repositories, stars on public non-fork repositories, and contributions over the past year. Updated daily.">
+</picture>
 
-### Full-Stack Developer & Product Engineer
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile/dashboard-mobile.svg">
+  <img src="assets/profile/dashboard.svg" width="100%" alt="Tech stack: React, TypeScript, Next.js, Node.js, Go, Rust, Elixir, Swift, Flutter, PostgreSQL, Docker, and Git. Building subtitle tools and native applications. Exploring Go, Rust, and Elixir. Includes my real GitHub contribution calendar.">
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&height=42&lines=React%2C+Next.js+%26+Node.js%3BDesktop%2C+mobile+%26+browser+tools%3BGo%2C+Elixir+%26+Rust+experiments" alt="React, Next.js and Node.js; desktop, mobile and browser tools; Go, Elixir and Rust experiments">
+## Selected builds
 
-Self-taught engineer with **6+ years of experience**, building across the web, desktop, and mobile.
+<p align="center">
+  <a href="https://github.com/anilpdv/youtube-translator-ext"><picture><source media="(max-width: 600px)" srcset="assets/profile/project-translator-mobile.svg"><img src="assets/profile/project-translator.svg" width="400" alt="YouTube Translator — synchronized bilingual subtitles, resumable translations, and SRT export. TypeScript, React, WXT. Open repository."></picture></a>
+  <a href="https://github.com/anilpdv/libgen-gui"><picture><source media="(max-width: 600px)" srcset="assets/profile/project-libgen-mobile.svg"><img src="assets/profile/project-libgen.svg" width="400" alt="LibGen Downloader — native desktop and mobile book search with resilient downloads. Go and Fyne. Open repository."></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/anilpdv/MusicApp"><picture><source media="(max-width: 600px)" srcset="assets/profile/project-music-mobile.svg"><img src="assets/profile/project-music.svg" width="400" alt="MusicApp — music discovery, playlists, and playback for iOS. Swift. Open repository."></picture></a>
+  <a href="https://github.com/anilpdv/projectk8"><picture><source media="(max-width: 600px)" srcset="assets/profile/project-pipeline-mobile.svg"><img src="assets/profile/project-pipeline.svg" width="400" alt="ProjectK8 — digit recognition, translation, and text-to-speech pipeline. React, Python, Docker. Open repository."></picture></a>
+</p>
 
-[![Website](https://img.shields.io/badge/Website-0E7490?style=flat-square&logo=googlechrome&logoColor=white)](https://anilpdv.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anil-pdv-090b8a134/) [![Repositories](https://img.shields.io/badge/Repositories-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/anilpdv?tab=repositories) [![Email](https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:pdvanil42@gmail.com)
+<p align="center">
+  Also building <a href="https://github.com/anilpdv/ebook_viewer_project">Ebook Viewer</a> and <a href="https://github.com/anilpdv/quotes-cli">Quotes CLI</a>.
+</p>
 
-</div>
+<p align="center">
+  <a href="https://anilpdv.com"><img src="assets/profile/link-website.svg" width="142" alt="Visit my website"></a>
+  <a href="https://www.linkedin.com/in/anil-pdv-090b8a134/"><img src="assets/profile/link-linkedin.svg" width="142" alt="Connect on LinkedIn"></a>
+  <a href="mailto:pdvanil42@gmail.com"><img src="assets/profile/link-email.svg" width="142" alt="Email pdvanil42@gmail.com"></a>
+  <a href="https://github.com/anilpdv?tab=repositories"><img src="assets/profile/link-repositories.svg" width="142" alt="Browse all repositories"></a>
+</p>
 
-## Featured projects
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile/footer-mobile.svg">
+  <img src="assets/profile/footer.svg" width="100%" alt="Build useful things. Keep learning. Open to conversations about web, native apps, and developer tools.">
+</picture>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/anilpdv/youtube-translator-ext">YouTube Subtitle Translator</a></h3>
-      <p>Translate YouTube captions into synchronized bilingual subtitles, with resumable translation and SRT export.</p>
-      <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/WXT-0284C7?style=flat-square&logo=googlechrome&logoColor=white" alt="WXT"></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/anilpdv/MusicApp">MusicApp</a></h3>
-      <p>Native iOS music app for browsing playlists and playing music.</p>
-      <p><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift"> <img src="https://img.shields.io/badge/iOS-555555?style=flat-square&logo=apple&logoColor=white" alt="iOS"></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/anilpdv/libgen-gui">LibGen Downloader</a></h3>
-      <p>Desktop and mobile book-search client with mirror failover, resumable downloads, and a persistent queue.</p>
-      <p><img src="https://img.shields.io/badge/Go-007D9C?style=flat-square&logo=go&logoColor=white" alt="Go"> <img src="https://img.shields.io/badge/Fyne-5264AE?style=flat-square" alt="Fyne"></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/anilpdv/ebook_viewer_project">Ebook Viewer</a></h3>
-      <p>A Flutter reader for searching, downloading, and reading PDF and EPUB books.</p>
-      <p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/anilpdv/projectk8">ProjectK8</a></h3>
-      <p>A containerized pipeline for digit recognition, language translation, and text-to-speech.</p>
-      <p><img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/anilpdv/quotes-cli">Quotes CLI</a></h3>
-      <p>Find quotes from your terminal by tag, author, or book, with search and bulk commands.</p>
-      <p><img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/JavaScript-8A7300?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"></p>
-    </td>
-  </tr>
-</table>
+<details>
+<summary>Profile in plain text</summary>
 
-[Explore all repositories](https://github.com/anilpdv?tab=repositories)
+I'm **Anil Palli**, a self-taught full-stack developer and product engineer with **6+ years of experience**. I build web interfaces, native applications, and developer tools.
 
-## Tech stack
+My core web stack is **React, TypeScript, Next.js, and Node.js**. I also build with **Go, Swift, and Flutter**, and explore **Rust and Elixir** through side projects.
 
-**Web**
+- [YouTube Translator](https://github.com/anilpdv/youtube-translator-ext): synchronized bilingual subtitles, resumable translation, and SRT export.
+- [LibGen Downloader](https://github.com/anilpdv/libgen-gui): a Go/Fyne client for desktop and mobile, with mirror failover and resumable downloads.
+- [MusicApp](https://github.com/anilpdv/MusicApp): native iOS music discovery and playback.
+- [ProjectK8](https://github.com/anilpdv/projectk8): a containerized digit-recognition, translation, and text-to-speech pipeline.
+- [Ebook Viewer](https://github.com/anilpdv/ebook_viewer_project): a Flutter app for PDF and EPUB discovery and reading.
+- [Quotes CLI](https://github.com/anilpdv/quotes-cli): search and filter quotes from the terminal.
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,tailwind,vite&amp;perline=8" width="264" alt="React, Next.js, TypeScript, Node.js, Tailwind CSS, Vite">
+[Website](https://anilpdv.com) · [LinkedIn](https://www.linkedin.com/in/anil-pdv-090b8a134/) · [Email](mailto:pdvanil42@gmail.com)
 
-**Native & systems**
+The activity panels use GitHub's API and refresh daily. See the [latest data snapshot](assets/profile/data.json).
 
-<img src="https://skillicons.dev/icons?i=go,elixir,rust,electron,flutter,swift&amp;perline=8" width="264" alt="Go, Elixir, Rust, Electron, Flutter, Swift">
-
-**Data & tooling**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,git,linux,vitest&amp;perline=8" width="352" alt="PostgreSQL, MongoDB, Redis, Docker, AWS, Git, Linux, Vitest">
-
-## GitHub activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=anilpdv&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=38BDF8&amp;text_color=C9D1D9&amp;border_radius=8&amp;show_icons=true&amp;ring_color=38BDF8">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anilpdv&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0369A1&amp;icon_color=0369A1&amp;text_color=24292F&amp;border_radius=8&amp;show_icons=true&amp;ring_color=0369A1" alt="Anil's GitHub activity" width="400">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anilpdv&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=38BDF8&amp;text_color=C9D1D9&amp;border_radius=8&amp;layout=compact&amp;card_width=445&amp;langs_count=8">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anilpdv&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0369A1&amp;icon_color=0369A1&amp;text_color=24292F&amp;border_radius=8&amp;layout=compact&amp;card_width=445&amp;langs_count=8" alt="Languages used across Anil's public repositories" width="400">
-  </picture>
-</div>
-
----
-
-<div align="center">
-
-Open to collaborating on web apps, native tools, and developer utilities. [Let's talk](mailto:pdvanil42@gmail.com).
-
-<img src="https://komarev.com/ghpvc/?username=anilpdv&amp;style=flat-square&amp;color=0E7490&amp;label=Profile+views" alt="Profile views">
-
-</div>
+</details>

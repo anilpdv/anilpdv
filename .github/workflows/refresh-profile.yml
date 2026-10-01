@@ -1,0 +1,30 @@
+name: Refresh profile SVGs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v6
+
+      - name: Render SVG panels from GitHub data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/render_profile.py
+
+      - name: Commit refreshed panels
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh profile metrics"
+          git push
